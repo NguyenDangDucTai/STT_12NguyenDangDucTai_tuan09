@@ -6,6 +6,7 @@ import {CheckBox} from "react-native-web";
 
 export default function API_Screen_02({navigation, route}){
     const yourName = route.params.name;
+    const [data, setData] = useState([]);
     useEffect(() => {
         fetch('https://6507b98156db83a34d9b47a9.mockapi.io/lap7data')
             .then(response => response.json())
@@ -13,7 +14,6 @@ export default function API_Screen_02({navigation, route}){
                 setData(json);
             });
     }, []);
-    const [data, setData] = useState([]);
     const {name} = route.params;
 
     return(

@@ -6,6 +6,8 @@ import {NavigationContainer} from "@react-navigation/native";
 import API_Screen_02 from "./screens/API_Screen_02";
 import {useState} from "react";
 import API_Screen_03 from "./screens/API_Screen_03";
+import Master_Portrait from "./screens/Master_Portrait";
+import Detail_Portrait from "./screens/Detail_Portrait";
 
 
 
@@ -13,18 +15,13 @@ const Stack = createNativeStackNavigator();
 export default function App() {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="Home">
-          <Stack.Screen name="Home" component={API_Screen_01}/>
-          <Stack.Screen name="Screen_02" component={API_Screen_02}
+      <Stack.Navigator initialRouteName="Master">
+          <Stack.Screen name="Master" component={Master_Portrait}
                         options={{
                             headerShown:false
                         }}
-          />
-          <Stack.Screen name="Screen_03" component={API_Screen_03}
-                        options={{
-                            headerShown:false,
-                        }}
-          />
+          ></Stack.Screen>
+          <Stack.Screen name="Detail_Portrait" component={Detail_Portrait}/>
       </Stack.Navigator>
     </NavigationContainer>
   );

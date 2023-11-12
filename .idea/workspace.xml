@@ -4,32 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff97837f-202c-4c2d-a538-a34f300dec99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/assets/adaptive-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/assets/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/assets/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/assets/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/image/home_book.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/image/iconBook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/image/letter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/image/pen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/image/woman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/screens/API_Screen_01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/screens/API_Screen_02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/screens/API_Screen_03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LapWeek7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="ff97837f-202c-4c2d-a538-a34f300dec99" name="Changes" comment="Push all">
+      <change afterPath="$PROJECT_DIR$/App/LapWeek7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/image/FloatingDonut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/image/PinkDonut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/image/TastyDonut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/image/donut1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/screens/Detail_Portrait.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/screens/Master_Portrait.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/screens/API_Screen_02.js" beforeDir="false" afterPath="$PROJECT_DIR$/App/screens/API_Screen_02.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +29,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,21 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Project/Laptrinhdidong/LapWeek6&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Project/Laptrinhdidong/LapWeek8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\Laptrinhdidong\LapWeek7\App" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Project\Laptrinhdidong\LapWeek7\App\pen" />
     </key>
@@ -91,11 +88,73 @@
       <workItem from="1698905676949" duration="10869000" />
       <workItem from="1699153257245" duration="19000" />
       <workItem from="1699153282316" duration="9583000" />
-      <workItem from="1699164775348" duration="5806000" />
+      <workItem from="1699164775348" duration="8087000" />
+      <workItem from="1699237577458" duration="1734000" />
+      <workItem from="1699240262917" duration="2519000" />
+      <workItem from="1699623098029" duration="1189000" />
+      <workItem from="1699757917764" duration="43000" />
+      <workItem from="1699757979390" duration="19348000" />
     </task>
+    <task id="LOCAL-00001" summary="Push all">
+      <option name="closed" value="true" />
+      <created>1699171011340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699171011340</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Push video">
+      <option name="closed" value="true" />
+      <created>1699173099449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699173099449</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push video" />
+    <MESSAGE value="Push all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push all" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/App/screens/Detail_Portrait.js</url>
+          <line>16</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
